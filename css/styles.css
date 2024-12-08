@@ -2137,7 +2137,9 @@ html,body {
    
 }
 
-.reviw__header{font-size:16px;
+.content__picture img{max-width:600px;}
+
+.review__header{font-size:16px;
 color:#9999;}
 
 .fileupload__item-delete:before {
