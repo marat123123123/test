@@ -2134,9 +2134,11 @@ html,body {
 }
 
 .review{    padding: 48px 48px;
-    border-radius: 4px;
-    border:1px solid grey;
+   
 }
+
+.reviw__header{font-size:16px;
+color:#9999;}
 
 .fileupload__item-delete:before {
     -webkit-transform: translate(-50%, -50%) rotate(45deg);
