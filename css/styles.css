@@ -2132,12 +2132,17 @@ html,body {
     -o-transition: .3s ease;
     transition: .3s ease
 }
-
+.content__video{display:flex;
+align-items: center;
+justify-content: center;
+margin:20px auto;}
 .review{    padding: 48px 48px;
    
 }
 
-.content__picture img{max-width:600px;}
+.content__picture img{max-width:600px;
+margin:20px auto;}
+
 
 .review__header{font-size:16px;
 color:#9999;}
